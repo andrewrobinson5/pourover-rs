@@ -1,7 +1,5 @@
 # Pourover-rs
 
----
-
 WIP static-site generator built in Rust.
 
 ### Goals
