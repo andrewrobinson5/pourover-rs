@@ -6,7 +6,11 @@ WIP static-site generator built in Rust.
 
 Given 2 directories (/site and /content), assemble a static site. /site contains the site information, templates, and sitemap generation rules. /content contains .md files of the site's articles/blog posts to be generated.
 
+---
+
 ### License
+
+BSD-3-Clause
 
 Copyright 2024 Andrew Robinson
 
