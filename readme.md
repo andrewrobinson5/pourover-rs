@@ -4,7 +4,7 @@ WIP static-site generator built in Rust.
 
 ### Goals
 
-Given 2 directories (/site and /content), assemble a static site. /site contains the site information, templates, and sitemap generation rules. /content contains .md files of the site's articles/blog posts to be generated.
+Given a directory (/content or definable in the config file? undecided) and some configuration files, assemble a static site. / contains the static content, templates, and sitemap generation rules. /content contains .md files of the site's articles/blog posts to be generated.
 
 ---
 
